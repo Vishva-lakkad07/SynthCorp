@@ -6,7 +6,7 @@ OOP Concepts: Encapsulation, Inheritance, Polymorphism, Abstraction.
 Machine Types: AssemblyRobot, PackagingRobot, QualityControlBot.
 Production Modes: Mass, Custom Batch, On-Demand.
 
-🧱 Design Patterns
+🎯 Design Patterns
 🏗️ Creational Patterns
 Factory: Creates machine types like CuttingMachine, WeldingMachine, etc.
 Singleton: CentralControlSystem ensures one global instance managing the production workflow.
